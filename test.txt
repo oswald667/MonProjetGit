@@ -1,0 +1,2 @@
+Bonjour Git
+Je commence à comprendre Git sur Linux Mint
